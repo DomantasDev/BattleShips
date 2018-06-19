@@ -1,0 +1,10 @@
+C:\Users\Domantas\source\repos\BattleShips\BattleShips\bin\Debug\BattleShips.exe.config
+C:\Users\Domantas\source\repos\BattleShips\BattleShips\bin\Debug\BattleShips.exe
+C:\Users\Domantas\source\repos\BattleShips\BattleShips\bin\Debug\BattleShips.pdb
+C:\Users\Domantas\source\repos\BattleShips\BattleShips\obj\Debug\BattleShips.csprojAssemblyReference.cache
+C:\Users\Domantas\source\repos\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.CoreCompileInputs.cache
+C:\Users\Domantas\source\repos\BattleShips\BattleShips\obj\Debug\BattleShips.exe
+C:\Users\Domantas\source\repos\BattleShips\BattleShips\obj\Debug\BattleShips.pdb
+C:\Users\Domantas\source\repos\BattleShips\BattleShips\bin\Debug\System.ValueTuple.dll
+C:\Users\Domantas\source\repos\BattleShips\BattleShips\bin\Debug\System.ValueTuple.xml
+C:\Users\Domantas\source\repos\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.CopyComplete
